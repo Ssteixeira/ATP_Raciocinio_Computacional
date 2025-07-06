@@ -28,6 +28,7 @@ sistema_academico/
     ├── disciplinas.json
     ├── turmas.json
     └── matriculas.json
+`````
 
 ---------------------------------------------
 FUNCIONALIDADES
@@ -67,6 +68,7 @@ COMO EXECUTAR O PROJETO
      python main.py
 
 3. O menu principal será exibido com as opções:
+
    === SISTEMA DE GESTÃO ACADÊMICA ===
    1. Estudantes
    2. Professores
